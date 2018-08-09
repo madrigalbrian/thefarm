@@ -1,0 +1,66 @@
+body {
+  height: 640px;
+ background-image: url("../images/farm.jpg");
+ width: 80%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: 100%;
+ margin-top: 0px;
+}
+section {
+  width: 100px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+img {
+  width: 100px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+#chicken {
+  cursor: pointer;
+  margin-top: 270px;
+  margin-left: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 10s;
+}
+#cow {
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 20s;
+}
+#goat {
+  cursor: pointer;
+  margin-top: 180px;
+  margin-left: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 15s;
+}
+#pig {
+  cursor: pointer;
+  margin-top: 100px;
+  margin-left: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 19s;
+}
+#dog {
+  cursor: pointer;
+  margin-top: 350px;
+  margin-left: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 7s;
+}
