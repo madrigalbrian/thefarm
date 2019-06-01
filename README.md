@@ -1,6 +1,6 @@
 # thefarm
 
-I attended the Resilient Coders Bootcamp and I was tasked to build multiple tasks using JavaScript. 
+I attended the Resilient Coders Bootcamp in the summer of 2017 and I was tasked to build multiple tasks using JavaScript. 
 
 Task:
 - Build a farm web page using HTML, CSS, and Vanilla JavaScript
